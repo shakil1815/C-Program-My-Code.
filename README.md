@@ -12,7 +12,7 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Welcome+to+my+Coding+Archive;Exploring+Arrays,+Pointers,+and+Structures;Algorion-2+Batch+|+PSTU;Session:+2024-25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Welcome+to+my+Coding+Archive;Exploring+Arrays,+Pointers,+and+Structures;Algorion-2+Batch+|+PrSTU;Session:+2024-25" alt="Typing SVG" />
   </a>
 
 </div>
