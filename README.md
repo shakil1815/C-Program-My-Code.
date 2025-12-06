@@ -1,55 +1,51 @@
-# 💻 C Programming Mastery 🚀
+# 🎓 C Programming Journey 🚀
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=C%20Programming%20Journey&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Algorithms%20|%20Data%20Structures%20|%20Problem%20Solving&descAlignY=55&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=C%20Programming%20Repository&fontSize=60&animation=fadeIn&fontAlignY=38&desc=By%20Shakil%20Ahmed&descAlignY=55&descAlign=50)
 
 <div align="center">
 
   ![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Compiler](https://img.shields.io/badge/Compiler-GCC-green?style=for-the-badge&logo=gnu&logoColor=white)
-  ![IDE](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+  ![University](https://img.shields.io/badge/University-PSTU-orange?style=for-the-badge&logo=school&logoColor=white)
+  ![Department](https://img.shields.io/badge/Dept-CSE-blueviolet?style=for-the-badge&logo=computer&logoColor=white)
 
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Welcome+to+my+Codebase!;Exploring+Pointers,+Arrays,+and+Sorting;Solving+Complex+Problems+with+C;Made+for+Learning+and+Sharing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Welcome+to+my+Coding+Archive;Exploring+Arrays,+Pointers,+and+Structures;Algorion-2+Batch+|+PSTU;Session:+2024-25" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### 📖 About This Repository
-এই রিপোজিটরিটি আমার **C Programming** শেখার যাত্রার একটি সংগ্রহ। এখানে বেসিক সিনট্যাক্স থেকে শুরু করে অ্যাডভান্সড ডেটা স্ট্রাকচার পর্যন্ত সব কোড সাজানো আছে। 
+### 👨‍💻 About Me
+Hello! I am **Shakil Ahmed**, a Computer Science and Engineering student at **Pirojpur Science and Technology University** (Session: 2024-25). 
 
-> *"Talk is cheap. Show me the code."* - **Linus Torvalds**
+This repository documents my journey through the **C Programming Language**, containing solutions to various problems, algorithms, and data structures.
 
 ---
 
-### 📂 Topic Covered
+### 📂 Repository Structure
+All codes are organized into specific folders based on topics:
 
-| 🟢 **Basic Concept** | 🟡 **Intermediate** | 🔴 **Advanced** |
+| 📁 **Basic Concepts** | 📁 **Control Flow** | 📁 **Advanced Topics** |
 | :--- | :--- | :--- |
-| ✅ Variables & Data Types | 🔹 Arrays (1D & 2D) | 🚀 Pointers & Memory |
-| ✅ Operators & Expressions | 🔹 Functions & Recursion | 🚀 Structures & Unions |
-| ✅ Control Flow (if-else) | 🔹 Strings Handling | 🚀 File Management |
-| ✅ Loops (for, while) | 🔹 Sorting Algorithms | 🚀 Dynamic Memory |
+| [`operator/`](./operator) <br> Operators & Expressions | [`condition/`](./condition) <br> If-Else Logic | [`Array/`](./Array) <br> 1D & 2D Arrays |
+| [`math/`](./math) <br> Mathematical Problems | [`switch/`](./switch) <br> Switch Case Examples | [`string/`](./string) <br> String Manipulation |
+| [`function and recursion/`](./function%20and%20recursion) <br> Functions & Recursion | [`loop/`](./loop) <br> For, While, Do-While | [`pointer/`](./pointer) <br> Memory & Pointers |
+| | [`break and continue/`](./break%20and%20continue) <br> Jump Statements | [`structure/`](./structure) <br> Structs & Unions |
+| | | [`File Handling/`](./File%20Handling) <br> File I/O Operations |
 
 ---
 
-### 🛠️ Example Code Snippet
-এখানে একটি উদাহরণ দেওয়া হলো যা এই রিপোজিটরির কোডিং স্টাইল রিপ্রেজেন্ট করে:
+### 🛠️ Quick Start
+To run any code from this repository:
 
-```c
-#include <stdio.h>
+**Clone the repo:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git)
 
-// A simple function to welcome visitors
-void welcomeMessage() {
-    printf("Welcome to my C Repository! 🚀\n");
-    printf("Let's code something amazing today.\n");
-}
+📫 Connect with Me
 
-int main() {
-    welcomeMessage();
-    return 0;
-}
+<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" /> </a> <a href="https://www.google.com/search?q=https://facebook.com/YOUR_PROFILE"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" /> </a> <a href="mailto:your-email@example.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a>
