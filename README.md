@@ -46,6 +46,3 @@ To run any code from this repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git)
 
-📫 Connect with Me
-
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" /> </a> <a href="https://www.google.com/search?q=https://facebook.com/YOUR_PROFILE"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" /> </a> <a href="mailto:your-email@example.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a>
