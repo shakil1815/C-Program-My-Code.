@@ -6,7 +6,7 @@
 
   ![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Compiler](https://img.shields.io/badge/Compiler-GCC-green?style=for-the-badge&logo=gnu&logoColor=white)
-  ![University](https://img.shields.io/badge/University-PSTU-orange?style=for-the-badge&logo=school&logoColor=white)
+  ![University](https://img.shields.io/badge/University-PrSTU-orange?style=for-the-badge&logo=school&logoColor=white)
   ![Department](https://img.shields.io/badge/Dept-CSE-blueviolet?style=for-the-badge&logo=computer&logoColor=white)
 
   <br>
