@@ -40,9 +40,8 @@ All codes are organized into specific folders based on topics:
 ---
 
 ### 🛠️ Quick Start
-To run any code from this repository:
+To run any code from this repository, follow these commands in your terminal:
 
-**Clone the repo:**
+1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git)
-
+   git clone [https://github.com/shakil1815/C-Program-My-Code.git](https://github.com/shakil1815/C-Program-My-Code.git)
